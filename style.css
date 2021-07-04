@@ -46,3 +46,22 @@ p{
     font-weight: 400;
 
 }
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    display: flex;
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-position: right;
+}
+.half-width2{
+    width: 50%;
+    padding-right: 5%;
+}
+.half-width2 img{
+    width: 60%;
+    padding-top: 7%;
+    padding-left: 8%;
+}
+.big{
+    color:red
+}
