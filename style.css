@@ -1,5 +1,6 @@
 body{
     font-family: 'Teko', sans-serif;
+    margin: 0px;
 }
 h1{
 
@@ -13,16 +14,21 @@ p{
 }
 .top-banner{
     display: flex;
-    padding: 2%;
+    
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin: 0px;
     
 }
 .half-width{
     width: 50%;
-    padding-left: 2%;
+    padding-left: 3%;
 }
 .half-width img{
-    width: 70%;
+    width: 60%;
+    padding-top: 2%;
     padding-left: 27%;
+
 }
 .name{
     color: red;
