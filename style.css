@@ -65,3 +65,41 @@ p{
 .big{
     color:red
 }
+.flexible{
+    display:flex;
+    
+}
+.half-width3{
+    width: 60%;
+    padding:0px 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.aqua-color{
+    color:red;
+    font-size: 22px;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    
+}
+.ex{
+    padding-left: 3%;
+}
+#web-dev-exp{
+    border-image:linear-gradient(#00f5ff,#000000);
+    border-image-slice: 1;
+    border-left: 6px solid;
+}
+#web-dev-exp1{
+    border-image:linear-gradient(#ff0000,#000000);
+    border-image-slice: 1;
+    border-left: 6px solid;
+}
+footer p{
+    text-align: center;
+    margin-top:5% ;
+}
